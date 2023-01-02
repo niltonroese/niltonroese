@@ -1,6 +1,6 @@
 ### Hey there 👋
-### Nilton here... coding the heck out of me :computer:
-### Full Stack Developer hailing from the Sunny Coast :sunny: 
+### I'm Nilton... coding the heck out of me :computer:
+### A Full Stack Developer hailing from the Sunny Coast :sunny: 
 ------
 
 ![JXA0](https://user-images.githubusercontent.com/98724149/210189608-f4888da7-0c3d-4703-9eaf-cc989e650a21.gif)
